@@ -117,7 +117,7 @@ Houston Community College
 
 Email: w216359933@student.hccs.edu  
 LinkedIn: https://www.linkedin.com/in/greglivin/  
-GitHub Portfolio: 
+GitHub Portfolio:https://github.com/GregLivin/Gregory-Livingston-ITAI1378-Portfolio 
 
 ---
 
