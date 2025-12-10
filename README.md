@@ -65,6 +65,7 @@ Prompt Engineering
 
 📘 Featured Course & Project
 Computer Vision – ITAI 1378
+___
 
 This course covered:
 
