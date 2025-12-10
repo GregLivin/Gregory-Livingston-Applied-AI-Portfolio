@@ -55,10 +55,10 @@ ComputerVision-ITAI1378/
 -
 ▶️ Next Steps
 
-Open VisionTalk-Image-Captioning
+1.Open VisionTalk-Image-Captioning
 
-Review the notebook
+2.Review the notebook
 
-View the example outputs in the results folder
+3.View the example outputs in the results folder
 
-Explore how the model connects images and natural language
+4.Explore how the model connects images and natural language
