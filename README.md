@@ -103,6 +103,7 @@ Gregory-Livingston-Applied-AI-Portfolio/
 
 # 🔍 How to Navigate This Portfolio
 
+
 1. **Start with the course overview**  
    📁 `ComputerVision-ITAI1378/`
 
