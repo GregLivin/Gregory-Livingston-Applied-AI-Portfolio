@@ -1,122 +1,66 @@
 Gregory Livingston – Applied AI Portfolio
 
-Houston Community College • Applied Artificial Intelligence & Robotics Program
+Houston Community College • Applied Artificial Intelligence and Robotics Program
 
 About Me
 
-I am an Applied Artificial Intelligence student at Houston Community College, focused on developing practical skills in computer vision, deep learning, machine learning, and autonomous systems.
-This portfolio highlights the projects, tools, and hands-on experience I gained throughout the program.
+My name is Gregory Livingston, and I am currently pursuing an A.A.S. in Artificial Intelligence and Robotics. I am passionate about creating intelligent robotic systems for land, sea, and air that can assist humans with tasks across many areas of life. My interests include advancing AI applications in fields such as surgical robotics, aerospace, and defense.
 
-My goal is to apply AI to real-world problems, build intelligent systems, and continue growing as a developer, engineer, and innovator.
+This portfolio highlights the experience and skills I gained throughout the ITAI 1378 Computer Vision course, along with the practical work I completed during the semester.
 
 Technical Skills
+Programming and Tools
 
-Programming & Tools
+Python
 
-Python, NumPy, Pandas, Matplotlib
+NumPy, Pandas, Matplotlib
 
-Jupyter Notebook, Google Colab
+Jupyter Notebook
 
-Git & GitHub
+Google Colab
 
-Visual Studio Code
+Git and GitHub
 
-Artificial Intelligence & Machine Learning
+Core AI Skills
 
-Machine Learning Fundamentals
+Image Processing
 
-Neural Networks (MLP, CNNs, Transfer Learning)
-
-Computer Vision & Image Processing
-
-Vision Transformers
-
-Vision-Language Models (CLIP, BLIP, etc.)
-
-Autonomous Agent Concepts
-
-Frameworks & Libraries
-
-PyTorch
-
-TensorFlow / Keras
-
-OpenCV
-
-Hugging Face Transformers
-
-Courses Completed
-ITAI 1378 – Computer Vision Fundamentals (Fall 2025)
-
-Hands-on learning in:
-
-Image processing
-
-Classical ML for vision
-
-Convolutional Neural Networks
-
-Transfer Learning
-
-Vision Transformers
+Neural Networks
 
 Vision-Language Models
 
-Autonomous vision systems
+Computer Vision Techniques
 
-Featured Project:
+Course Overview – ITAI 1378 (Computer Vision)
+
+This course introduced the fundamentals of computer vision, with each module building toward more advanced understanding. I learned how to process and analyze images, train models, work with pre-trained networks, and create a small AI system that connects vision with language.
+
+My main project for this course is included in the section below.
+
+Featured Project
 VisionTalk – Image Captioning System
 
-A working AI program that generates natural-language captions for images using a BLIP Vision-Language Model.
+This project focuses on teaching an AI model to describe images using natural language. I used a Vision-Language Model (BLIP) to link image features with text generation. The program accepts an image input and produces a descriptive caption based on its visual content.
 
-Featured Project Overview
-🔹 VisionTalk: Image Captioning System
-
-A functional AI model that:
-
-Accepts an uploaded image
-
-Processes it using a Vision-Language Model
-
-Generates an automatic caption describing the image
-
-This project demonstrates skills in:
+This project demonstrates my learning in:
 
 Image preprocessing
 
-Neural networks & CNNs
+Neural network foundations
 
-Transformers
+Transformer-based architectures
 
 Vision-Language modeling
 
-📁 Project Folder:
-ComputerVision-ITAI1378/VisionTalk-Image-Captioning/
+Project folder path:
 
-📄 Notebook:
-VisionTalk_Image_Captioning.ipynb
+ComputerVision-ITAI1378/VisionTalk-Image-Captioning
 
-📂 Results Folder:
-Contains output samples and generated captions.
 
-Professional Goals
-
-Expand my AI skills into robotics, autonomous systems, and applied machine learning
-
-Build real-world AI tools for automation, safety, and intelligent decision-making
-
-Continue developing strong engineering and programming foundations
-
-Prepare for advanced AI, ML, cybersecurity, and cloud certifications
+Each project folder contains its own README, notebook, and sample outputs.
 
 Contact
 
-📧 Email: w216359933@student.hccs.edu
+Email: w216359933@student.hccs.edu
 
-🔗 LinkedIn: https://www.linkedin.com/in/greglivin/
-
-🐙 GitHub: https://github.com/GregLivin
-
-Acknowledgments
-
-Special thanks to the HCC AI & Robotics faculty for guiding my development in computer vision, neural networks, and applied AI engineering.
+LinkedIn: https://www.linkedin.com/in/greglivin/
