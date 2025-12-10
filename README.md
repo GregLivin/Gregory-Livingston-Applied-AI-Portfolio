@@ -1,68 +1,129 @@
-🚀 Gregory Livingston – Applied AI Portfolio
+⭐ Gregory Livingston – Applied AI Portfolio
 
-Houston Community College • Applied Artificial Intelligence and Robotics Program
+Welcome to my Applied Artificial Intelligence portfolio. This repository showcases my work from the Applied AI & Robotics Program at Houston Community College, with a focus on computer vision, AI-powered systems, and practical machine learning applications.
 
-👨‍💻 About Me
+👤 About Me
 
-My name is Gregory Livingston, and I am currently pursuing an A.A.S. in Artificial Intelligence and Robotics. I am passionate about creating intelligent robotic systems for land, sea, and air that can support humans with tasks across many areas of life.
+My name is Gregory Livingston, and I am currently pursuing an A.A.S. in Artificial Intelligence and Robotics.
+I am passionate about developing intelligent robotic systems designed for land, sea, and air environments, supporting humans in completing tasks across all areas of life.
 
-My interests include advancing AI applications in surgical robotics, aerospace, and defense.
+My interests include advancing AI applications in:
 
-This portfolio highlights the skills and hands-on experience I gained throughout the ITAI 1378 Computer Vision course, along with the practical work I completed during the semester.
+Surgical & medical robotics
 
-🛠 Technical Skills
-Programming and Tools
+Aerospace & autonomous flight systems
 
-🐍 Python
+Defense, safety, and critical infrastructure technologies
 
-📊 NumPy, Pandas, Matplotlib
+I am also pursuing a B.S. in Mechanical Engineering Technology (Mechatronics) to combine AI with engineering, hardware, and real-world robotics integration.
 
-📓 Jupyter Notebook
+🧠 Technical Skills
+AI, ML & Computer Vision
 
-☁️ Google Colab
+Image processing
 
-🔧 Git and GitHub
+Feature extraction & classical CV
 
-AI and Computer Vision
+Convolutional Neural Networks (CNNs)
 
-🖼 Image Processing
+Transfer learning
 
-🧠 Neural Networks
+Vision–Language Models (VLMs)
 
-🔎 Vision-Language Models
+Image captioning & multimodal AI
 
-👁️ Computer Vision Techniques
+Programming & Tools
 
-📘 Course Overview – ITAI 1378 (Computer Vision)
+Python (NumPy, Pandas, Matplotlib)
 
-This course introduced the core concepts of computer vision. Each module expanded my understanding of how machines interpret images and how models can be trained to analyze visual information. I learned how to preprocess images, build simple models, use advanced neural networks, and design a complete AI system that connects vision with language.
+Jupyter Notebook, Google Colab
 
-My primary course project is listed below.
+Hugging Face Transformers
 
-🖥 Featured Project
-VisionTalk – Image Captioning System 📝
+Git & GitHub
 
-This project explores how AI can describe an image using natural language. I used a Vision-Language Model (BLIP) to connect visual features to text generation. The system accepts an image input and produces a short caption describing what it sees.
+Prompt engineering basics
 
-This project demonstrates my work in:
+🛠️ Tools & Platforms
 
-🔧 Image preprocessing
+Python
 
-🧠 Neural network fundamentals
+Jupyter Notebook
 
-🔄 Transformer-based architectures
+Google Colab
 
-🗣 Vision-Language modeling
+Hugging Face Models
 
-Project folder path:
+GitHub Version Control
 
-ComputerVision-ITAI1378/VisionTalk-Image-Captioning
+Image datasets & preprocessing utilities
 
+📚 Featured Course & Projects
+📸 Computer Vision – ITAI 1378
 
-Each project folder includes its own README, notebook, and output examples.
+Folder: ComputerVision-ITAI1378/
 
-📬 Contact
+This course introduced foundational and advanced topics in computer vision, including:
+
+Classical image processing
+
+Machine learning for images
+
+CNN architectures
+
+Object detection
+
+Modern multimodal models
+
+🔥 Featured Final Project
+VisionTalk – Image Captioning System
+
+Folder: VisionTalk-Image-Captioning
+
+A fully working vision–language system that generates captions from input images using a pre-trained BLIP model. This project demonstrates:
+
+Image preprocessing
+
+Vision–Language model inference
+
+Integration of deep learning with natural-language outputs
+
+AI pipeline documentation and reproducibility
+
+This project brings together everything learned in the course — from neural networks to transformers.
+
+🗂️ Repository Structure
+Gregory-Livingston-Applied-AI-Portfolio/
+├── README.md                         # Main portfolio overview
+└── ComputerVision-ITAI1378/
+    ├── README.md                     # Course overview
+    └── VisionTalk-Image-Captioning/
+        ├── README.md                 # Project-level documentation
+        ├── VisionTalk_Image_Captioning.ipynb
+        └── results/                  # Screenshots & output visuals
+
+🔍 How to Explore My Work
+
+Start at the course folder:
+ComputerVision-ITAI1378/
+
+Open the final project:
+VisionTalk-Image-Captioning/
+
+View results and model outputs:
+results/ folder
+
+Open the notebook:
+Run or view VisionTalk_Image_Captioning.ipynb for full code.
+
+📫 Contact
+
+If you’d like to connect, collaborate, or learn more about my projects:
 
 Email: w216359933@student.hccs.edu
 
-LinkedIn: https://www.linkedin.com/in/greglivin/
+LinkedIn: https://www.linkedin.com/in/greglivin
+
+GitHub: https://github.com/GregLivin
+
+Thank you for reviewing my portfolio!
