@@ -124,9 +124,18 @@ Gregory-Livingston-Applied-AI-Portfolio/
    Run the `.ipynb` file to see the code, explanations, and caption-generation process.
 
 Review code, explanations, and sample inference inside the .ipynb file.
+---
+---
 
+## 🎥 Demo Video
 
+Click below to watch the system generate image captions in real time:
 
+🔗 **Demo Video Link:** https:
+
+---
+
+---
 📬 Contact
 
 If you'd like to connect or learn more:
