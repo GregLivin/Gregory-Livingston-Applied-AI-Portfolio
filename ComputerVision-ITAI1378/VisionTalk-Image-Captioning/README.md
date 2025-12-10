@@ -1,82 +1,116 @@
-# 🎯 VisionTalk – Image Captioning System
+🖼️ VisionTalk – Image Captioning System
 
-VisionTalk is an AI system that generates natural-language captions from images using a pretrained **BLIP Vision–Language Model**. It demonstrates how computer vision and language models work together to interpret and describe visual content.
+VisionTalk is an AI system that generates natural-language captions from input images using a pretrained BLIP Vision–Language Model. It demonstrates how AI can interpret visual content and produce meaningful descriptions.
 
----
-
-## 1. Problem Statement
+1. Problem Statement
 
 The goal of this project is to build a system that:
 
-- Takes an input image  
-- Understands key visual features  
-- Produces a descriptive caption  
+Accepts an input image
 
-This project applies core concepts from ITAI 1378, including image processing, neural networks, and multimodal AI.
+Extracts and understands key visual features
 
----
+Generates a descriptive caption
 
-## 2. Approach
+This project applies core concepts from ITAI 1378 – Computer Vision, including neural networks, transfer learning, and vision–language modeling.
 
-The notebook uses a pretrained **BLIP** model from Hugging Face.
+2. Approach
 
-The pipeline:
+The project uses a pretrained BLIP model from Hugging Face.
+The processing pipeline includes:
 
-1. Load the BLIP processor and model  
-2. Upload or load an image  
-3. Preprocess the image  
-4. Generate a caption  
-5. Display the image and caption  
+Load the BLIP processor and model
 
----
+Upload an image
 
-## 3. Folder Contents
+Preprocess the image
 
-```text
+Generate a caption
+
+Display the image + caption
+
+Notebook Location
+
+📌 The main notebook for this project is stored in:
+
+../notebooks/VisionTalk_Image_Captioning.ipynb
+
+
+This keeps the portfolio clean and organized.
+
+3. Folder Contents
 VisionTalk-Image-Captioning/
-├── VisionTalk_Image_Captioning.ipynb
-├── README.md
-└── results/
-VisionTalk_Image_Captioning.ipynb – All code, explanations, and caption-generation steps
+├── README.md               ← This file  
+└── results/                ← Output examples
 
-results/ – Example images and generated captions
+Contents:
 
-4. How to Run
-A. Google Colab (recommended)
-Open the notebook in Google Colab
+results/ — Saved sample captions & any generated images
+
+Notebook is stored separately in /notebooks for better organization
+
+4. How to Run the Project
+A. Run in Google Colab (recommended)
+
+Open the notebook in Colab
 
 Install dependencies:
 
-python
-Copy code
 !pip install transformers timm pillow accelerate
+
+
 Upload an image
 
 Run all cells
 
-B. Local Python Environment
-bash
-Copy code
+The system will display the image + generated caption
+
+B. Run Locally (Python environment)
+
+Install dependencies:
+
 pip install transformers timm pillow accelerate
+
+
+Launch Jupyter Notebook:
+
 jupyter notebook
-Open the notebook and run it.
+
+
+Open:
+VisionTalk_Image_Captioning.ipynb
 
 5. Dataset / Images
-No large dataset is required.
-The system uses individual test images included in the notebook or saved in the results/ folder.
+
+No dataset is required.
+
+The user uploads a single test image, which the model processes.
+Example images and output captions are stored inside the results/ folder.
 
 6. Results
-Example outputs (image + caption pairs) are stored in the results folder.
+
+Sample outputs include:
+
+Generated captions
+
+Displayed images
+
+Notes & observations
+
+These are available in the results/ directory.
 
 7. What I Learned
-Through VisionTalk, I practiced:
 
-Using pretrained Vision–Language Models
+From building VisionTalk, I learned to:
 
-Working with Hugging Face tools
+Use pretrained Vision–Language Models
 
-Connecting image inputs to text generation
+Apply Hugging Face tools
 
-Structuring and documenting an AI mini-project
+Understand how images are encoded for language generation
 
-This project demonstrates my ability to build practical computer vision systems for my Applied AI portfolio.
+Build a mini end-to-end computer vision application
+
+Document and organize AI projects professionally
+
+This project demonstrates my ability to create real-world AI applications for my Applied AI portfolio.
