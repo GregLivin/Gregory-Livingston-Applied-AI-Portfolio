@@ -59,4 +59,25 @@ It includes:
 ---
 
 ## 📁 Folder Structure
+ComputerVision-ITAI1378/
+│── README.md ← Course overview (this file)
+│── VisionTalk-Image-Captioning/
+│ ├── VisionTalk_Image_Captioning.ipynb
+│ ├── README.md ← Full project documentation
+│ └── results/ ← Example captions + images
+---
 
+---
+
+## 🎯 Summary  
+This folder demonstrates my mastery of:
+
+- Image processing  
+- Classical ML for images  
+- Deep learning & CNNs  
+- Transfer learning  
+- Modern computer vision architectures  
+- Vision–language models (VLMs)  
+- Building a complete AI application from start to finish  
+
+This represents my progression through ITAI 1378 and showcases the practical skills developed throughout the course.
