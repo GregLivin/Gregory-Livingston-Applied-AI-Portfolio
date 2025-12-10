@@ -1,52 +1,64 @@
-# Computer Vision – ITAI 1378
+📘 Computer Vision – ITAI 1378
 
-This folder contains my projects, labs, and final demo for the ITAI 1378 Computer Vision course.
+This folder contains my work for the ITAI 1378 – Computer Vision course at Houston Community College.
+Throughout this course, I gained hands-on experience with the foundations and advanced elements of computer vision, machine learning, and deep learning for image-based tasks.
 
-## 📘 Course Overview
-In this course, I learned the foundations of computer vision, including image processing, classical ML techniques, CNNs, object detection, and Vision-Language Models. This folder showcases my hands-on work and understanding of these concepts.
+🧠 What I Learned in This Course
 
-## 📂 Included Project
-### **VisionTalk: Image Captioning Program**
-A Vision-Language AI system that generates natural-language captions from input images.
+This course covered a full pipeline of computer vision skills, including:
 
-**Folder:** `VisionTalk-Image-Captioning/`  
-This project demonstrates:
-- Image preprocessing  
-- Neural networks & transformers  
-- Vision-Language Model (BLIP)  
-- Generating natural-language descriptions  
-- Using HuggingFace libraries  
+Image fundamentals (pixels, channels, color spaces)
 
-**Direct Folder Link:**  
-(Insert GitHub link to the folder)
+Image processing and transformations
 
----
+Classical machine learning for images
 
-## ▶️ How to Run the Project
-1. Open the notebook in Google Colab  
-2. Upload an image  
-3. Run all cells  
-4. View the generated caption  
+Neural networks for vision
 
----
+Convolutional Neural Networks (CNNs)
 
-## 📚 Skills Demonstrated
-- Python  
-- NumPy, Pandas, Matplotlib  
-- OpenCV  
-- Transformers (Hugging Face)  
-- Vision-Language Modeling  
-- Jupyter Notebook  
+Transfer learning for vision models
 
----
+Object detection workflows
 
-## 🔧 Future Improvements
-- Add support for real-time webcam captioning  
-- Expand library of test images  
-- Add speech output for spoken captions  
-- Experiment with fine-tuning the model  
+Vision–Language Models (VLMs)
 
----
+Image captioning and multimodal AI systems
 
-## 📄 Notes
-This folder is part of my overall Applied AI Portfolio and showcases my practical work in computer vision throughout the semester.
+These skills prepared me to complete the final project shown below.
+
+⭐ Final Project – VisionTalk: Image Captioning System
+
+Folder:
+📁 VisionTalk-Image-Captioning/
+
+My final project integrates all major concepts from the course into a single AI system that:
+
+Accepts an input image
+
+Processes it using a BLIP Vision–Language Model
+
+Generates a natural-language caption describing the image
+
+This showcases the combination of deep learning, transformers, and multimodal AI.
+
+👉 Open the project folder here:
+VisionTalk-Image-Captioning
+
+📂 Folder Contents
+ComputerVision-ITAI1378/
+├── README.md
+└── VisionTalk-Image-Captioning/
+    ├── VisionTalk_Image_Captioning.ipynb
+    ├── README.md
+    └── results/
+
+▶️ Next Steps
+
+Open VisionTalk-Image-Captioning
+
+Review the notebook
+
+View the example outputs in the results folder
+
+Explore how the model connects images and natural language
