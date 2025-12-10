@@ -2,7 +2,7 @@
 
 This folder contains my work for the ITAI 1378 – Computer Vision course at Houston Community College.
 Throughout this course, I gained hands-on experience with the foundations and advanced elements of computer vision, machine learning, and deep learning for image-based tasks.
-
+-
 🧠 What I Learned in This Course
 
 This course covered a full pipeline of computer vision skills, including:
@@ -26,7 +26,7 @@ Vision–Language Models (VLMs)
 Image captioning and multimodal AI systems
 
 These skills prepared me to complete the final project shown below.
-
+-
 ⭐ Final Project – VisionTalk: Image Captioning System
 
 Folder:
@@ -52,7 +52,7 @@ ComputerVision-ITAI1378/
     ├── VisionTalk_Image_Captioning.ipynb
     ├── README.md
     └── results/
-
+-
 ▶️ Next Steps
 
 Open VisionTalk-Image-Captioning
