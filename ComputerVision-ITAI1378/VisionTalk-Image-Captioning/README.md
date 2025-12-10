@@ -1,85 +1,82 @@
-🎯 VisionTalk – Image Captioning System
+# 🎯 VisionTalk – Image Captioning System
 
-VisionTalk is a small AI system that generates natural-language captions from images using a pretrained BLIP Vision–Language Model. It demonstrates how computer vision and language models can work together to interpret and describe visual content.
+VisionTalk is an AI system that generates natural-language captions from images using a pretrained **BLIP Vision–Language Model**. It demonstrates how computer vision and language models work together to interpret and describe visual content.
 
-1. Problem Statement
+---
 
-The goal of this project is to create a system that:
+## 1. Problem Statement
 
-Takes an input image
+The goal of this project is to build a system that:
 
-Understands key visual features
+- Takes an input image  
+- Understands key visual features  
+- Produces a descriptive caption  
 
-Produces a descriptive caption
+This project applies core concepts from ITAI 1378, including image processing, neural networks, and multimodal AI.
 
-This project applies the main concepts learned in ITAI 1378, including image processing, neural networks, transformers, and multimodal AI.
+---
 
-2. Approach
+## 2. Approach
 
-The notebook uses a pretrained BLIP model from Hugging Face.
+The notebook uses a pretrained **BLIP** model from Hugging Face.
+
 The pipeline:
 
-Load the BLIP processor and model
+1. Load the BLIP processor and model  
+2. Upload or load an image  
+3. Preprocess the image  
+4. Generate a caption  
+5. Display the image and caption  
 
-Upload or load an image
+---
 
-Preprocess the image
+## 3. Folder Contents
 
-Run inference to generate a caption
-
-Display the image and its caption
-
-3. Folder Contents
+```text
 VisionTalk-Image-Captioning/
 ├── VisionTalk_Image_Captioning.ipynb
 ├── README.md
 └── results/
+Notebook – All code and explanations
 
-
-Notebook – Full code, explanations, and outputs
-
-results/ – Example images and generated captions
+results/ – Example images and captions
 
 4. How to Run
-A. Google Colab (easiest)
-
-Open the notebook in Colab
+A. Google Colab (recommended)
+Open the notebook in Google Colab
 
 Install dependencies:
 
+python
+Copy code
 !pip install transformers timm pillow accelerate
-
-
 Upload an image
 
 Run all cells
 
 B. Local Python Environment
+bash
+Copy code
 pip install transformers timm pillow accelerate
 jupyter notebook
-
-
 Open the notebook and run it.
 
 5. Dataset / Images
-
 No large dataset is required.
-This project uses individual test images placed in the notebook or results/ folder.
+The system uses individual test images included in the notebook or saved in the results/ folder.
 
 6. Results
-
-Output examples (image + caption) are stored in the results folder.
+Example outputs (images with captions) are stored inside the results folder.
 
 7. What I Learned
-
 Through VisionTalk, I practiced:
 
-Running pretrained VLMs
+Using pretrained Vision–Language Models
 
-Using Hugging Face models
+Applying Hugging Face tools
 
-Connecting visual input to text output
+Connecting images to natural-language generation
 
-Structuring and documenting an AI mini-project
+Documenting and organizing an AI mini-project
 
-This project is a key part of my Applied AI portfolio and demonstrates my ability to build practical computer vision systems.
+This project demonstrates my ability to build practical computer vision systems for my Applied AI portfolio.
